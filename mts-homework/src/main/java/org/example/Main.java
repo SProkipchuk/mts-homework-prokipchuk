@@ -15,3 +15,4 @@ public class Main {
         }
     }
 } NICHEGO NEPONYATNO!!!
+VSYO RAVNO YA NE PONIMAYU!!!!
